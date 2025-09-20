@@ -26,3 +26,6 @@ Link download for play >>> [Automaton](https://drive.google.com/file/d/1CTzLdVHF
 <img width="1131" height="634" alt="Screen Shot 2562-06-07 at 09 15 29" src="https://github.com/user-attachments/assets/f0471b5a-0fe2-45f7-ad2b-bbf221d604cc" />
 <img width="1131" height="635" alt="Screen Shot 2562-06-07 at 09 13 41" src="https://github.com/user-attachments/assets/aead42f2-13c7-41b5-a34d-7be9c9d721dc" />
 <img width="1132" height="632" alt="Screen Shot 2562-06-07 at 09 13 30" src="https://github.com/user-attachments/assets/9e5aa981-bea5-4111-91e3-ea2bdc7d992e" />
+<img width="1915" height="1047" alt="Screen Shot 2562-06-07 at 09 20 59" src="https://github.com/user-attachments/assets/e3af1300-baf8-453c-bc35-42d8baa975aa" />
+<img width="1775" height="971" alt="Screen Shot 2562-06-07 at 09 20 07" src="https://github.com/user-attachments/assets/16c1c446-0a65-4060-9b0d-3d7737d8e4e6" />
+<img width="1775" height="972" alt="Screen Shot 2562-06-07 at 09 19 38" src="https://github.com/user-attachments/assets/f83b25c4-0432-4814-a47c-8fd83ed462ec" />
